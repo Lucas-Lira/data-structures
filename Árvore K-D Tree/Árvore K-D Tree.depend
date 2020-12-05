@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1511056519 source:c:\users\acer\documents\estruturas de dados 2 trabalho segundo bimestre\Árvore k-d tree\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	"tadInterface.h"
+	"tad_Kd_Tree.h"
+
+1511051332 c:\users\acer\documents\estruturas de dados 2 trabalho segundo bimestre\Árvore k-d tree\tadinterface.h
+
+1511055743 c:\users\acer\documents\estruturas de dados 2 trabalho segundo bimestre\Árvore k-d tree\tad_kd_tree.h
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1510973690 source:c:\users\acer\documents\estruturas de dados 2 trabalho segundo bimestre\Árvore rubro-negra\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	"tadInterface.h"
+	"tadArvoreRubroNegra.h"
+
+1510962078 c:\users\acer\documents\estruturas de dados 2 trabalho segundo bimestre\Árvore rubro-negra\tadinterface.h
+
+1510973690 c:\users\acer\documents\estruturas de dados 2 trabalho segundo bimestre\Árvore rubro-negra\tadarvorerubronegra.h
+

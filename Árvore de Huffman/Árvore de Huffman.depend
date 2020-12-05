@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1510796501 source:c:\users\acer\documents\estruturas de dados 2 trabalho segundo bimestre\Árvore de huffman\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	"tadInterface.h"
+	"tadHuffman.h"
+
+1510754172 c:\users\acer\documents\estruturas de dados 2 trabalho segundo bimestre\Árvore de huffman\tadinterface.h
+
+1510796501 c:\users\acer\documents\estruturas de dados 2 trabalho segundo bimestre\Árvore de huffman\tadhuffman.h
+

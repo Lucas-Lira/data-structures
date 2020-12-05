@@ -1,0 +1,31 @@
+http://www.mapcoordinates.net/pt
+
+
+
+Prudente:
+Latitude: -22.121114
+Longitude: -51.3930254
+
+Pirapozinho:
+L1: -22.2756953
+L2: -51.5002318
+
+Tarabai
+L1: -22.3020842
+L2: -51.5626149
+
+Presidente Bernades
+L1: -22.0077937
+L2: -51.5531899
+
+Álveres Machado
+L1: -22.1840675
+L2: -51.5570726
+
+Estrela do Norte
+L1: -22.4864077
+L2: -51.6636863
+
+Adamantina
+L1: -21.6824831
+L2: -51.0741711
